@@ -7,6 +7,11 @@ body{
 header{
     background-color: green;
 }
+<<<<<<< HEAD
 footer{
 	background-color: #blue;
+=======
+section{
+    background-color: yello0w;
+>>>>>>> 8dc18b4ecd3a6c8f028b55af82e32d12366c45b2
 }
